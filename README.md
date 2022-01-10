@@ -29,6 +29,12 @@
 ## Donor Chi-Squared Test Analysis
 <img width="909" alt="image" src="https://user-images.githubusercontent.com/48637798/148815876-e062bb2a-3ef3-4650-b41c-2d4d3400bdbb.png">
 
+## Machine Learning Models and Evaluation
+<img width="939" alt="image" src="https://user-images.githubusercontent.com/48637798/148816042-3e125d38-4956-4a38-a02c-79f4d6916bc7.png">
+
+## Tableau link
+https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/NJCommunityFoodBankAnalysis/PovertyRatebyPercentofUninsuredAdultsandPercentofUninsuredChildren?publish=yes
+
 
 
 
