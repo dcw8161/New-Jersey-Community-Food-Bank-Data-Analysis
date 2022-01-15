@@ -36,7 +36,7 @@
 [NJ Tableau](https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/NJCommunityFoodBankAnalysis/PovertyRatebyPercentofUninsuredAdultsandPercentofUninsuredChildren?publish=yes)
 
 ## Azure-ML link
-[NJ Azure-ML](https://https://studio.azureml.net/Home/ViewWorkspaceCached/65eb5183b7af4605b49ec341755dd54a#Workspaces/Experiments/Experiment/65eb5183b7af4605b49ec341755dd54a.f-id.eed7baf0cb3e4be580eda50c90f2ebad/ViewExperiment)
+[NJ Azure-ML](https://gallery.cortanaintelligence.com/Experiment/NJ-Community-Food-Bank-Boosted-Decision-Tree-Regression-on-12-29-2021)
 
 
 
