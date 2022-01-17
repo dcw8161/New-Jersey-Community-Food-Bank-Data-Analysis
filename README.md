@@ -33,7 +33,7 @@
 <img width="939" alt="image" src="https://user-images.githubusercontent.com/48637798/148816042-3e125d38-4956-4a38-a02c-79f4d6916bc7.png">
 
 ## Tableau link
-[NJ Tableau](https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/NJCommunityFoodBankAnalysis/PovertyRatebyPercentofUninsuredAdultsandPercentofUninsuredChildren?publish=yes)
+[NJ Tableau](https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/NJCommunityFoodBankAnalysis/Dashboard1?publish=yes)
 
 
 
